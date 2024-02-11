@@ -1,0 +1,7 @@
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\obj\Debug\ShalyapinD.A.csproj.AssemblyReference.cache
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\obj\Debug\ShalyapinD.A.csproj.CoreCompileInputs.cache
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\bin\Debug\ShalyapinD.A.exe.config
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\bin\Debug\ShalyapinD.A.exe
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\bin\Debug\ShalyapinD.A.pdb
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\obj\Debug\ShalyapinD.A.exe
+C:\Users\mlavon\Desktop\ShalyapinD.A\ShalyapinD.A\obj\Debug\ShalyapinD.A.pdb
